@@ -1,1 +1,2 @@
-# R-BM_index
+# R-BMindex
+**Body mass index (BMI) is a measure of weight adjusted for height, calculated as weight in kilograms divided by the square of height in meters (kg/m2). Although BMI is often considered an indicator of body fatness, it is a surrogate measure of body fat because it measures excess weight rather than excess fat.The four main categories are: Underweight, Normal Weight, Overweight, and Obesity. BMI, however, does not take in consideration age, gender, nor is it a completely accurate measurement for persons with extraordinarily high or low levels of lean muscle mass.**
